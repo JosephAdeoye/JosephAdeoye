@@ -9,10 +9,11 @@
 - 😄 Pronouns: HE/HIM
   
 - 📫 How to reach me:
-  🖇 LinkedIn: https://www.linkedin.com/in/joseph--adeoye/
+
+  
+  💼 LinkedIn: https://www.linkedin.com/in/joseph--adeoye/
   📧 Email: Joseph_adeoye@yahoo.com
  
-  - 
 <!--
 
 Here are some ideas to get you started:
