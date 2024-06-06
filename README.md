@@ -13,7 +13,10 @@
   
   💼 LinkedIn: https://www.linkedin.com/in/joseph--adeoye/
   📧 Email: Joseph_adeoye@yahoo.com
- 
+
+- ⚡ Fun fact: If you would like to know how I got into tech, please read this short article 😄: https://open.substack.com/pub/adeoyejoseph/p/teamwork-and-collaboration?r=m8ijo&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true
+
+  
 <!--
 
 Here are some ideas to get you started:
@@ -25,5 +28,5 @@ Here are some ideas to get you started:
 
 
 
-- ⚡ Fun fact: ...
+
 -->
