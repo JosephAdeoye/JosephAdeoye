@@ -21,6 +21,15 @@
 
 🔐 [Network Traffic Analysis](https://github.com/JosephAdeoye/packet-analysis)
 
+🔐 [Random Password Generator](https://github.com/JosephAdeoye/password-generator)
+
+# Network Engineering Projects 
+🖥 [Multi-Area OSPF configuration]([https://example.com](https://github.com/JosephAdeoye/Multi-area-OSPF)
+🖥 [Simple Office Network Address Translation](https://github.com/JosephAdeoye/Dual-Office-NetworkAddressTranslation)
+🖥 [Wireless Local Area Configuration](https://github.com/JosephAdeoye/wlan-tunnel-forwarding)
+
+
+
 
  -- 
 
