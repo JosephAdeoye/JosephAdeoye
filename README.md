@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# I am Joseph, an IT & Cybersecurity professional.
+# I am Joseph, an IT & Cybersecurity professional 🙂.
 
 - 🔭 I am currently working on various IT and programming projects. This includes configurations on Network Address Translation for IP Address management and enhanced security, OSPF single and Multi-Area configurations, Wireless connectivity in simple areas, Inter-VLAN routing and configuration, Link aggregation for redundancy, and other projects I am still working on.
 
