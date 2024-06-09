@@ -16,7 +16,15 @@
 
 - ⚡ Fun fact: If you would like to know how I got into tech, please read this short article 😄: https://open.substack.com/pub/adeoyejoseph/p/teamwork-and-collaboration?r=m8ijo&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true
 
-  
+# Information Security Projects
+🔐  [Creating a Risk Assessment Analysis for Boldi AG](https://github.com/JosephAdeoye/risk-assessment-analysis)
+
+🔐 [Network Traffic Analysis](https://github.com/JosephAdeoye/packet-analysis)
+
+
+ -- 
+
+
 <!--
 
 Here are some ideas to get you started:
