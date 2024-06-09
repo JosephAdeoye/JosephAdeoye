@@ -19,13 +19,15 @@
 # Information Security Projects
 🔐  [Creating a Risk Assessment Analysis for Boldi AG](https://github.com/JosephAdeoye/risk-assessment-analysis)
 
-🔐 [Network Traffic Analysis](https://github.com/JosephAdeoye/packet-analysis)
+🔐 [Network Traffic Analysis with WireShark](https://github.com/JosephAdeoye/packet-analysis)
 
-🔐 [Random Password Generator](https://github.com/JosephAdeoye/password-generator)
+🔐 [Random Password Generator with Python](https://github.com/JosephAdeoye/password-generator)
 
 # Network Engineering Projects 
-🖥 [Multi-Area OSPF configuration]([https://example.com](https://github.com/JosephAdeoye/Multi-area-OSPF)
+🖥 [Multi-Area OSPF configuration](https://github.com/JosephAdeoye/Multi-area-OSPF)
+
 🖥 [Simple Office Network Address Translation](https://github.com/JosephAdeoye/Dual-Office-NetworkAddressTranslation)
+
 🖥 [Wireless Local Area Configuration](https://github.com/JosephAdeoye/wlan-tunnel-forwarding)
 
 
